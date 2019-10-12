@@ -1,0 +1,14 @@
+img {
+    width: 220px;
+    height: 175px;
+    margin: 10px 10px;
+}
+
+.character {
+    margin: 5px 5px;
+}
+
+#character-input {
+    margin: 10px auto;
+    width: 275px;
+}
