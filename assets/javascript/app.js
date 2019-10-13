@@ -70,6 +70,7 @@ $("#add-character").on("click", function(event) {
   topics.push(character);
 
   renderButtons();
+  $("#character-input").val("");
 });
 
 $(document).on("click", ".character", displayGifs);
